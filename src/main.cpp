@@ -1,5 +1,5 @@
 #include <Geode/Geode.hpp>
-#include <Geode/modify/Menulayer.hpp>
+#include <Geode/modify/MenuLayer.hpp>
 
 using namespace geode::prelude;
 
@@ -27,6 +27,5 @@ class $modify(Steve, MenuLayer) {
 		menu->updateLayout();
 
 		return true;
-
     }
 };
