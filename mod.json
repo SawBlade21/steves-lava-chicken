@@ -23,7 +23,7 @@
 	"settings": {
 		"remix": {
 			"name": "Play Camellia Remix",
-			"description": "Plays the Camellia remix of Steve's Lava Chicken.",
+			"description": "Play the Camellia remix of Steve's Lava Chicken.",
 			"type": "bool",
 			"default": false
 		}
