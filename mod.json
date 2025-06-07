@@ -1,0 +1,31 @@
+{
+	"geode": "4.5.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074"
+	},
+	"id": "sawblade.steves_lava_chicken",
+	"links": {
+		"source": "https://github.com/SawBlade21/steves-lava-chicken"
+	},
+	"name": "Steve's Lava Chicken",
+	"version": "v1.0.0",
+	"developer": "Sawblade",
+	"description": "Jack Black sings Steve's Lava Chicken",
+	"resources": {
+		"files": [
+			"src/resources/steves_lava_chicken.mp3",
+			"src/resources/steves_lava_chicken_remix.mp3",
+			"src/resources/steve_button.png"
+		]
+    },
+	"settings": {
+		"remix": {
+			"name": "Play Camellia Remix",
+			"description": "Plays the Camellia remix of Steve's Lava Chicken.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
