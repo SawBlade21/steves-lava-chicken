@@ -10,15 +10,17 @@
 		"source": "https://github.com/SawBlade21/steves-lava-chicken"
 	},
 	"name": "Steve's Lava Chicken",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"developer": "Sawblade",
 	"description": "Jack Black sings Steve's Lava Chicken",
 	"resources": {
 		"files": [
 			"src/resources/steves_lava_chicken.mp3",
-			"src/resources/steves_lava_chicken_remix.mp3",
-			"src/resources/steve_button.png"
-		]
+			"src/resources/steves_lava_chicken_remix.mp3"
+		],
+        "sprites": [
+            "src/resources/steve_button.png"
+        ]
     },
 	"settings": {
 		"remix": {
